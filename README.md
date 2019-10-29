@@ -1,6 +1,8 @@
 # xivo-amid-client
 
-[![Build Status](https://jenkins.wazo.community/buildStatus/icon?job=xivo-amid-client)](https://jenkins.wazo.community/job/xivo-amid-client)
+## Deprecated
+
+The xivo-amid-client is now deprecated in favor of the [wazo-amid-client](https://github.com/wazo-pbx/wazo-amid-client)
 
 A python library to connect to xivo-amid.
 
