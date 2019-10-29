@@ -2,7 +2,7 @@
 
 ## Deprecated
 
-The xivo-amid-client is now deprecated in favor of the [wazo-amid-client](https://github.com/wazo-pbx/wazo-amid-client)
+The xivo-amid-client is now deprecated in favor of the [wazo-amid-client](https://github.com/wazo-platform/wazo-amid-client)
 
 A python library to connect to xivo-amid.
 
